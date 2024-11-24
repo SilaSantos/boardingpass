@@ -1,0 +1,5 @@
+Para rodar precisa instalar as seguintes pacotes para funcionar:
+
+- npx expo install react-native-qrcode-svg
+- npx expo install react-native-svg
+- npx expo install expo-font @expo-google-fonts/poppins 
